@@ -21,19 +21,6 @@ The documentation provides a detailed description of how such a system should wo
 
 ---
 
-## Repository Structure
-cinema-ticket-reservation-system/
-│
-├─ docs/
-│ └─ dokumentacja_projektu.pdf # Full documentation (UML, ERD, logic, tables)
-│
-├─ diagrams/ # Optional: exported UML/ERD diagrams (PNG/SVG)
-│
-└─ README.md
-
-
----
-
 ## 📄 Documentation Contents
 
 The full documentation is available here:
