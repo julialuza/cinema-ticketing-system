@@ -3,7 +3,7 @@
 This repository contains the complete system design documentation for an **online cinema ticket reservation platform**.  
 The project focuses on **system analysis, modeling, data structure design, and business logic definition**, created as part of a university course in Software Engineering.
 
-Although this project does **not include implementation code**, it demonstrates skills in **UML modeling, database design, requirements analysis, and technical documentation** — all essential abilities for backend, data, and software engineering roles.
+Although this project does **not include implementation code**, it demonstrates skills in **UML modeling, database design, requirements analysis, and technical documentation** - all essential abilities for backend, data, and software engineering roles.
 
 ---
 
